@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-image: url('https://phantom-marca.unidadeditorial.es/68d4a867c5cb9fa8d130b57e8d62b460/resize/1320/f/jpg/assets/multimedia/imagenes/2023/01/16/16738856736211.jpg'); */
+    background-image: url('https://team.georgia.gov/wp-content/uploads/2021/02/COVID-Vaccine-2048x1365.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  header {
+    background-color: #212529;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 1em 15.5em 0;
+    color: #fff;
+  }
+  
+  .container {
+    margin: 20px auto;
+    max-width: 900px;
+    padding: 0 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      max-width: 500px;
+    }
+  }
+
+  .header{
+    align-items: center;
+  }
+
+  li, a{
+    color: #fff;
+  }
+  
